@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/rareBooks/static/css/main.c59de03e.css",
+    "main.js": "/rareBooks/static/js/main.bb58b27b.js",
+    "static/js/453.06d48846.chunk.js": "/rareBooks/static/js/453.06d48846.chunk.js",
+    "index.html": "/rareBooks/index.html",
+    "main.c59de03e.css.map": "/rareBooks/static/css/main.c59de03e.css.map",
+    "main.bb58b27b.js.map": "/rareBooks/static/js/main.bb58b27b.js.map",
+    "453.06d48846.chunk.js.map": "/rareBooks/static/js/453.06d48846.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c59de03e.css",
+    "static/js/main.bb58b27b.js"
+  ]
+}
